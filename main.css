@@ -28,8 +28,59 @@
     color: gold;
     font-size: 35px;
     position: relative;
-    top: 175px;
-    left: 75px;
+    top: 200px;
+    left: 375px;
     border: 3px 3px gold;
 
+}
+
+#vsuser {
+    color: gold;
+    font-size: 35px;
+    position: relative;
+    top: 200px;
+    left: 525px;
+    border: 3px 3px gold;
+
+}
+
+td {
+    background-color: #ba7A3A;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+
+.nopiece {
+    background-color: #f0d2b4;
+}
+
+.red-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    background-color: red;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+.black-piece {
+    width: 20px;
+    height: 20px;
+    padding: 12px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 50px; 
+}
+
+.red-turn {
+    background-color: red;
+    text-size-adjust: large;
+    width: 540px;
+}
+
+.black-turn {
+    background-color: red;
+    text-size-adjust: large;
+    width: 540px;
 }
