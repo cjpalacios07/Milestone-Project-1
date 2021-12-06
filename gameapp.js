@@ -1,3 +1,5 @@
+// Homepage Button event //
+
 document.getElementById("vscpu").onclick = function () {
     location.href = "playcpu.html";
 }
